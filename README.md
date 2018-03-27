@@ -23,7 +23,9 @@
 <img src="images/result2Swipe.png" height="500" width="300">
 <img src="images/result2Delete.png" height="500" width="300">
 <img src="images/resultGallery.png" height="500" width="300">
-### 4.Known issues
+
+
+**4.Known issues**
 
 *   FileNotFoundException in some cases even if the file is present.
 *   Quickpic image viewer not compatible.
