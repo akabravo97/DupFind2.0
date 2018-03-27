@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="abhijeet.testdup.Main3Activity">
+ <ImageView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:id="@+id/setBackground"
+     />
+ <TextView
+     android:layout_below="@+id/swipeLayout"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:id="@+id/status"
+     android:textColor="#000"
+     android:textSize="30dp"
+     android:layout_centerHorizontal="true"/>
+<com.baoyz.swipemenulistview.SwipeMenuListView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/swipeLayout">
+
+</com.baoyz.swipemenulistview.SwipeMenuListView>
+
+ <ImageView
+     android:layout_alignParentRight="true"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:adjustViewBounds="true"
+     android:maxWidth="20dp"
+     android:maxHeight="20dp"
+     android:scaleType="fitCenter"
+     android:layout_alignParentBottom="true"
+     android:id="@+id/progress"
+     android:src="@drawable/progress"/>
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_above="@+id/progress"
+     style="?android:attr/borderlessButtonStyle"
+     android:text="Go back"
+     android:id="@+id/finish"
+     android:layout_alignParentRight="true"/>
+</RelativeLayout>

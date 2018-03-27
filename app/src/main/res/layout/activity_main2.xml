@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="abhijeet.testdup.Main2Activity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"/>
+    <Button
+        android:background="?attr/selectableItemBackground"
+        android:layout_above="@+id/scan"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Directory"
+        style="?android:attr/borderlessButtonStyle"
+        android:id="@+id/chooseDirectory"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/progress"
+        style="?android:attr/borderlessButtonStyle"
+        android:text="Go back"
+        android:id="@+id/finish"
+        android:layout_alignParentLeft="true"/>
+    <Button
+        android:background="?attr/selectableItemBackground"
+        android:layout_above="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scan"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignParentRight="true"
+        android:text="Scan"/>
+    <ImageView
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:maxWidth="20dp"
+        android:maxHeight="20dp"
+        android:scaleType="fitCenter"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/progress"
+        android:src="@drawable/progress"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/progress"
+        android:textSize="10dp"
+        android:textColor="#000"
+        android:text="Press back to go to previous activity...."/>
+</RelativeLayout>
