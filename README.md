@@ -18,15 +18,14 @@
 *   To delete a duplicate swipe left on image 
 
 
-<img src="images/chooseImage1.png" height="500" width="300">
-<img src="images/chooseImage2.png" height="500" width="300">
-<img src="images/chooseDirectory1.png" height="500" width="300">
-<img src="images/chooseImage2.png" height="500" width="300">
-<img src="images/result1.png" height="500" width="300">
-<img src="images/result2Swipe.png" height="500" width="300">
-<img src="images/result2Delete.png" height="500" width="300">
-<img src="images/resultGallery.png" height="500" width="300">
-![images](result2Delete.png)
+<img src="images/chooseImage1.png" height="250" width="150">
+<img src="images/chooseImage2.png" height="250" width="150">
+<img src="images/chooseDirectory1.png" height="250" width="150">
+<img src="images/chooseImage2.png" height="250" width="150">
+<img src="images/result1.png" height="250" width="150">
+<img src="images/result2Swipe.png" height="250" width="150">
+<img src="images/result2Swipe.png" height="250" width="150">
+<img src="images/result2Swipe.png" height="250" width="150">
 
 
 **4.Known issues**
