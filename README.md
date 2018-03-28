@@ -26,6 +26,7 @@
 <img src="images/result2Swipe.png" height="500" width="300">
 <img src="images/result2Delete.png" height="500" width="300">
 <img src="images/resultGallery.png" height="500" width="300">
+![images](result2Delete.png)
 
 
 **4.Known issues**
