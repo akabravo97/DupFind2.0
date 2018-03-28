@@ -37,4 +37,4 @@
 *   If user does't allow storage permission to app from settings the app crashes while scanning for duplicates.
 
 
-# Download link : https://drive.google.com/open?id=1zWmd5B4hpylGR06UgmKjMlsK4HXtFP7m
+# Download link : https://drive.google.com/open?id=17dkvPylXvFQl8mO7HM6FM98FTCnm8G6O
