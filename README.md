@@ -15,6 +15,8 @@
 *   *User has to allow storage permission for the app from setting otherwise it will crash while scanning for duplicates*
 
 *   Choosing file, directories and deleting duplicates
+*   To delete a duplicate swipe left on image 
+
 
 <img src="images/chooseImage1.png" height="500" width="300">
 <img src="images/chooseImage2.png" height="500" width="300">
