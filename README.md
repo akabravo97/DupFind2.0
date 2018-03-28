@@ -29,6 +29,8 @@
 
 *   FileNotFoundException in some cases even if the file is present.
 *   Quickpic image viewer not compatible.
+*   App not working on Asus Zenfone 4.
+*   Directory selector sometimes does't show any folder to select.
 
 
 # Download link : https://drive.google.com/open?id=1TSP_7IO2U1IknXRtws_u-rJmWXq1NiyR
