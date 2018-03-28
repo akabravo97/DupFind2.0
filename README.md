@@ -12,6 +12,7 @@
 *   The user will select a directory in which he wants to search for duplicates.
 
 **3.Working**
+*   *User has to allow storage permission for the app from setting otherwise it will crash while scanning for duplicates*
 
 *   Choosing file, directories and deleting duplicates
 
@@ -31,6 +32,7 @@
 *   Quickpic image viewer not compatible.
 *   App not working on Asus Zenfone 4.
 *   Directory selector sometimes does't show any folder to select.
+*   If user does't allow storage permission to app from settings the app crashes while scanning for duplicates.
 
 
 # Download link : https://drive.google.com/open?id=1TSP_7IO2U1IknXRtws_u-rJmWXq1NiyR
